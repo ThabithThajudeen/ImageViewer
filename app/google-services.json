@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822644315524",
+    "project_id": "imagesaver-2531b",
+    "storage_bucket": "imagesaver-2531b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822644315524:android:119ca7a2d6bb59e082b9d1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYb5PjkWf3oqsJioNYMGb6N-XnsmFf8LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
